@@ -1,0 +1,17 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.1.1",
+    "axios": "^1.8.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "react-router-dom": "^7.18.0"
+  }
+}
